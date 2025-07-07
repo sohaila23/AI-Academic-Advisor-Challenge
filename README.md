@@ -19,7 +19,7 @@ To run this project, follow these steps:
         ```
 
 2.  **Execution:**
-    * Navigate to the directory where you saved the `academic_advisor.py` file (or `main.py`).
+    * Navigate to the directory where you saved the `academic_advisor.py` file .
     * Run the script from your terminal or command prompt:
         ```bash
         python academic_advisor.py
